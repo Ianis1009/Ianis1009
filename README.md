@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Ianis 👋
 
-<!--
-**Ianis1009/Ianis1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University POLITEHNICA of Bucharest,
+Faculty of Automatic Control and Computers, specializing in software development.
+Strong interest in backend systems, Machine Learning, and DSA, with hands-on experience
+using C, Python, gcc, Bash, Git, and Linux-based workflows.
 
-Here are some ideas to get you started:
+### 🚀 What I do
+- Backend & Web Development (Flask, Python)
+- Machine Learning & Data Science
+- Data Structures & Algorithms (C, Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Languages: C/C++, Python, Java
+- Frameworks: Flask
+- Machine Learning: Scikit-learn, Random Forest
+- Tools: Git, GitHub, Linux (WSL2)
+- Scientific Computing: Numerical Methods
+
+### 🎯 Goals
+Continuously improving problem-solving skills and building a strong foundation in
+Data Structures and Algorithms through hands-on implementation in C and Python.
+Focused on translating real-world and physical phenomena into efficient code,
+developing numerical simulations, applying Machine Learning techniques, and
+designing scalable software systems using Python and Flask for practical, real-world applications.
