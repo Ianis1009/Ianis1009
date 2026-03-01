@@ -1,7 +1,6 @@
 ## Hi, I'm Ianis 👋
 
-Computer Science student at the University POLITEHNICA of Bucharest,
-Faculty of Automatic Control and Computers, specializing in software development.
+Computer Science student at the University POLITEHNICA of Bucharest, specializing in software development.
 Strong interest in backend systems, Machine Learning, and DSA, with hands-on experience
 using C, Python, gcc, Bash, Git, and Linux-based workflows.
 
